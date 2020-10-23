@@ -1,0 +1,38 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	background-color: red;
+	width: 970px;
+	height: 1000px;
+}
+
+#wrapper, label {
+	display: block;
+}
+
+#survey_body {
+	border: 1px solid black;
+	margin: 0 auto;
+	width: 970px;
+	height: 1000px;
+}
+#survey_body, h1 {
+	padding: 30px;
+	text-decoration: underline;
+}
+
+ul li {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.lBody{
+	width: auto;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 50px;
+}
